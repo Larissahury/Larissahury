@@ -7,10 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 <p align="center">
-  Originally from Brazil (and EU citizen), I just completed a full-stack web development course at Le wagon.
-  As a kid who always loved video games, that's when my interest in programming and technology was born,
-  I've been doing bootcamps and studying web development on my own and I'm looking to bring
-  those skills to a new full-stack developer position. 💻 
+  
  </p>
 <p align="center">
 When I'm not coding you can find me playing video games, watching anime or taking pictures of random trees that i find cute. 🌳🌷🌳🌷
